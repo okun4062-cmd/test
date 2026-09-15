@@ -3,5 +3,5 @@
 <h1 align="center">Привет 👋 Я Иван</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="400" alt="gif"/>
+  <img src="https://github.com/okun4062-cmd/test/blob/main/voronin-dance.gif?raw=true" width="400" alt="gif"/>
 </p>
